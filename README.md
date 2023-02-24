@@ -66,3 +66,57 @@ Chirch Церковь
 You had a card У тебя была карта
 
 Key Ключ
+
+Nobody Никто
+
+Just Только что
+
+Dress Платье
+
+If Если
+
+Anyone Любой
+
+With С
+
+Without Без
+
+Could Могли
+
+Speak Говорить
+
+Allow Разрешать
+
+Truth Правда
+
+Believe Верить
+
+Only Только
+
+Adjust Настраивать
+
+One Один
+
+Any Любое
+
+Sweet dreams Сладких снов
+
+Must be done Должно быть сделано
+
+Hide Прятать
+
+Enough Достаточно
+
+Not enough Не достаточно
+
+They Они
+
+Their Их
+
+Live Жить
+
+Around Вокруг
+
+Abilities Способности
+
+Often Часто
