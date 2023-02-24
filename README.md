@@ -1,5 +1,4 @@
 # words
-words
 
 Ceiling Потолок
 
@@ -120,3 +119,22 @@ Around Вокруг
 Abilities Способности
 
 Often Часто
+
+Speed Скорость
+
+Thing Вещь
+
+Everything Все
+
+Between Между
+
+Large Большой
+
+Area Область
+
+Small -> Medium -> Large -> Extra Large -> Huge = Маленький - Средний - Большой - Очень большой - Огромный 
+
+S -> M -> L -> XL
+
+In the middle В середине
+
